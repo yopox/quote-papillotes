@@ -51,7 +51,11 @@ body {
   } 
 
   #refresh {
-    width: 140px;
+    position: fixed;
+    bottom: 45px;
+    right: 45px;
+    width: 48px;
+    height: 48px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -73,9 +77,6 @@ body {
     box-shadow: 0 3px 5px rgba(0,0,0,0.16);
     color: rgba(17,24,39,var(--tw-text-opacity));
     text-transform: uppercase;
-    position: fixed;
-    bottom: 45px;
-    right: 45px;
     user-select: none;
     transition: background-color .2s ease-out;
     &:focus, &:hover {
@@ -92,8 +93,13 @@ body {
     img {
       height: 1rem;
       width: 1rem;
-      margin-left: 4px;
     }
+  }
+  #attribution {
+    position: fixed;
+    bottom: 45px;
+    left: 45px;
+    padding: 5px;
   }
   #error {
     position: fixed;
