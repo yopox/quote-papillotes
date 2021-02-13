@@ -100,6 +100,10 @@ body {
     bottom: 45px;
     left: 45px;
     padding: 5px;
+    a {
+      text-decoration: underline;
+      color: inherit;
+    }
   }
   #error {
     position: fixed;
