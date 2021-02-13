@@ -1,6 +1,4 @@
-# Static starter
-Create a static site boilerplate using SCSS and a simple server.
+# Quote Papillotes
+Get a random quote from [chocolate foils](https://www.revillonchocolatier.fr/).
 
-Install packages with: `npm install`.
-
-Start coding with: `npm run dev` 🚀 
+Content is updated each Christmas 🎅.
