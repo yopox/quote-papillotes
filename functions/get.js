@@ -20,7 +20,7 @@ let quotes = [
     {
         author: 'Voltaire',
         locale: 'fr',
-        text: 'J\'ai décidé d\'être heureux, c\'est meilleure pour la santé.',
+        text: 'J\'ai décidé d\'être heureux, c\'est meilleur pour la santé.',
     },
     {
         author: 'Marcel Proust',
@@ -40,7 +40,7 @@ let quotes = [
     {
         author: 'William Shakespeare',
         locale: 'fr',
-        text: 'L\'amour ne voit pas avec les yeux mais avec l\'ame.',
+        text: 'L\'amour ne voit pas avec les yeux mais avec l\'âme.',
     },
     {
         author: 'Antoine de Saint-Exupéry',
